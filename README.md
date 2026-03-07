@@ -1,5 +1,5 @@
 Hi there 👋
-<img src="https://github.com/Sranu2109/Sranu2109/blob/main/header.png?raw=true">
+<img src="https://github.com/sahil1696i/sahil1696i/blob/main/Header.jpg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E7574E&size=21&center=true&vCenter=true&lines=Goal-driven+creative+mindset!)](https://git.io/typing-svg)
 
