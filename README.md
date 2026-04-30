@@ -13,11 +13,21 @@ Hi there 👋
 - ⚡ Fun fact: I enjoy turning **coffee into code and raw data into insights.** 
 
 ## Let's Connect !!
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/sahil-singh-764253217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-singh-764253217/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sahiil__29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahiil__29" height="30" width="40" /></a>
-<a href="https://github.com/sahil1696i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sahil1696i" height="30" width="40" /></a>
-<a href="https://x.com/SahilSingh032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SahilSingh032" height="30" width="40" /></a>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-singh-764253217/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/sahiil__29/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/sahil1696i" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/SahilSingh032" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
+  </a>
 </p>
